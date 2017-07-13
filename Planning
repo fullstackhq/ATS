@@ -13,6 +13,27 @@ Association:
 Job belongs to Company
 Company has many jobs
 
+Process:
 
+Create profile -> Add Companny -> Add Job
+                  Add Candidate -> Add Resume
 
+Profile
+  - Its the profile of the person logged in
+  Database : FSProf
+    FSid
+    Name
+    Role
+    Companies added
+    Candidates added
+    Jobs added
+    
+Candidate -> Is the job seeker
 
+  Cid
+  Cname
+  Cdesigntion
+  Ccompany
+  Cclocation
+  Cplocation
+  
