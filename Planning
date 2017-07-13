@@ -1,0 +1,18 @@
+Pages:
+
+  Dashboard
+  Profile-crud
+  Candidate-crud
+  Company-crud
+  Job-crud
+  Resume-crud
+  
+  
+Association:
+
+Job belongs to Company
+Company has many jobs
+
+
+
+
