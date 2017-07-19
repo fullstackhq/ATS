@@ -1,0 +1,70 @@
+-----------------------------------
+Profile
+-----------------------------------
+Userid --------------------------------------------------- (1)
+Username
+UserPassword
+Role
+Usertype
+Image
+Companies followed
+Candidates followed
+Jobs followed
+Candidates added
+Companies added
+Jobs added
+Updated timestamp
+Createdat timestamp
+-----------------------------------
+Company
+-----------------------------------
+Company ID
+Company name
+Emailid
+contact person
+contact number
+Addedby --------------------------------------------------- (1)
+Location
+Company type
+Companystatus
+Updated timestamp
+Createdat timestamp
+-----------------------------------
+Job
+-----------------------------------
+Jobid
+Job title
+Job description
+Company
+Expiry date
+Main skill
+Skill1
+Skill2
+Skill3
+Skill4
+Skill5
+Goodtohave
+Location
+Salaryband
+Job type
+Jobstatus
+Updated timestamp
+Createdat timestamp
+-----------------------------------
+Candidate
+-----------------------------------
+
+Updated timestamp
+Createdat timestamp
+-----------------------------------
+Application
+-----------------------------------
+
+Updated timestamp
+Createdat timestamp
+-----------------------------------
+Activity
+-----------------------------------
+
+Updated timestamp
+Createdat timestamp
