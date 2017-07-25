@@ -1,5 +1,10 @@
 | Dashboard | Companies | Jobs | Candidates | MyActivity | Profile | 
 
+Dashboard
+
+   Candidates
+New Foll Activity!
+
 ***Demo site needed *********
 
 
@@ -7,6 +12,9 @@
 Dashboard
 ***************************
 Activity log
+  * All followed activity
+  * All direct activity
+  * All company level activity
 Latest company acquisitions
 Latest job postings
 Latest Cadidate registrations
@@ -26,7 +34,7 @@ Pages:
   Candidate-crud
   Company-crud
   Job-crud
-  Resume-crud
+  
   
   
 Association:
